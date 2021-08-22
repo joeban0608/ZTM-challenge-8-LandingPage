@@ -1,0 +1,17 @@
+.bd-set {
+    background-image: url("../img/jumboBd.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#text-color-wh{
+    color:white;
+}
+
+.text-color-black{
+    color: rgb(0,0,0);
+}
+
+.jumbo-font{
+    font-family: 'UnifrakturMaguntia', cursive;
+}
