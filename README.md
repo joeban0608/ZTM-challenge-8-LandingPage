@@ -10,5 +10,5 @@ conception, Top ten classical sentence 【概念】經典語錄:
 3. Pictures Resource圖庫：  
   * https://unsplash.com/s/photos/hourglass  
   * 
-There is [My project](https://github.com/zero-to-mastery/Coding_Challenge-8 "title") inline link.  
+There is [My project](https://joeban0608.github.io/ZTM-challenge-8-LandingPage/ "title") inline link.  
 There is [other student project](https://github.com/zero-to-mastery/Coding_Challenge-8 "title") inline link.
