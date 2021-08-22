@@ -1,5 +1,5 @@
 # ZTM-challenge-8-LandingPage
-Zero-to-master-Coding_Challenge-8_Landing-page-project:Positive-Power  
+Zero-to-master-Coding_Challenge-8_Landing-page-project:# Positive-Power  
 
 conception, Top ten classical sentence 【概念】經典語錄:  
 
