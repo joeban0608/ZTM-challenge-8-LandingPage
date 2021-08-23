@@ -14,4 +14,4 @@ There is [other student project](https://github.com/zero-to-mastery/Coding_Chall
 
 ### How to use?
 - There have some positive sentence which have author link that you could click the link to review the author history.
-- You could also click the keep follow me button to next page in the website footerf. 
+- You could also click the keep follow me button to next page in the website footer. 
